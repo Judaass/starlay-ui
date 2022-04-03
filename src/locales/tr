@@ -1,0 +1,681 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-01-28 13:45+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/components/parts/Footer/AppFooter.tsx
+msgid "Latest Block: {blockNumber}"
+msgstr "En son blok: {blockNumber}"
+
+#: src/components/parts/Footer/AppFooter.tsx
+#: src/components/parts/Footer/TopFooter.tsx
+#: src/components/parts/Header/TopHeader.tsx
+#: src/components/screens/Top/Menu.tsx
+msgid "Docs"
+msgstr "Dökümanlar"
+
+#: src/components/parts/Footer/AppFooter.tsx
+#: src/components/parts/Footer/TopFooter.tsx
+#: src/components/parts/Header/TopHeader.tsx
+#: src/components/screens/Top/Menu.tsx
+msgid "Governance"
+msgstr "Yönetim"
+
+#: src/components/parts/Footer/AppFooter.tsx
+msgid "Support"
+msgstr "Destek"
+
+#: src/components/parts/Footer/TopFooter.tsx
+msgid "Starlay Finance is the largest lending protocol in the Polkadot ecosystem."
+msgstr "Starlay Finance Polkadot ekosisteminin en büyük kredi protokolüdür.."
+
+#: src/components/parts/Footer/TopFooter.tsx
+#: src/components/screens/Top/Menu.tsx
+msgid "Twitter"
+msgstr "Twitter"
+
+#: src/components/parts/Footer/TopFooter.tsx
+#: src/components/parts/Footer/TopFooter.tsx
+#: src/components/parts/Header/TopHeader.tsx
+#: src/components/screens/Top/Menu.tsx
+#: src/components/screens/Top/Menu.tsx
+msgid "Discord"
+msgstr "Discord"
+
+#: src/components/parts/Footer/TopFooter.tsx
+#: src/components/parts/Footer/TopFooter.tsx
+#: src/components/screens/Top/Menu.tsx
+msgid "Telegram"
+msgstr "Telegram"
+
+#: src/components/parts/Footer/TopFooter.tsx
+#: src/components/screens/Top/Menu.tsx
+msgid "Medium"
+msgstr "Medium"
+
+#: src/components/parts/Footer/TopFooter.tsx
+#: src/components/screens/Top/Menu.tsx
+msgid "Github"
+msgstr "Github"
+
+#: src/components/parts/Footer/TopFooter.tsx
+msgid "Protocol"
+msgstr "Protokol"
+
+#: src/components/parts/Footer/TopFooter.tsx
+msgid "Developers"
+msgstr "Geliştiriciler"
+
+#: src/components/parts/Footer/TopFooter.tsx
+msgid "Overview"
+msgstr "Genel Bakış"
+
+#: src/components/parts/Footer/TopFooter.tsx
+msgid "Community"
+msgstr "Topluluk"
+
+#: src/components/parts/Footer/TopFooter.tsx
+msgid "Brand"
+msgstr "Marka"
+
+#: src/components/parts/Footer/TopFooter.tsx
+msgid "Media Kit"
+msgstr "Medya Araçları"
+
+#: src/components/parts/Header/AppHeader.tsx
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+#: src/components/parts/Header/AppHeader.tsx
+#: src/components/screens/Markets/Assets.tsx
+msgid "Markets"
+msgstr "Piyasalar"
+
+#: src/components/parts/Header/AppHeader.tsx
+msgid "Makai"
+msgstr "Makai"
+
+#: src/components/parts/Header/AppHeader.tsx
+msgid "Swap"
+msgstr "Takas"
+
+#: src/components/parts/Header/AppHeader.tsx
+msgid "Connect"
+msgstr "Bağlan"
+
+#: src/components/parts/Header/TopHeader.tsx
+#: src/components/screens/Top/Menu.tsx
+#: src/components/screens/Top/parts/FirstView.tsx
+#: src/components/screens/Top/parts/FirstView.tsx
+msgid "Launch App"
+msgstr "Uygulamayı Başlat"
+
+#: src/components/parts/Header/TopHeader.tsx
+#: src/components/screens/Top/Menu.tsx
+msgid "Bug Bounty"
+msgstr "Hata Bulma Ödülü"
+
+#: src/components/parts/Modal/MessageModalGradient/index.tsx
+msgid "Close"
+msgstr "Kapat"
+
+#: src/components/parts/Modal/RewardModal/index.tsx
+msgid "LAY Balance"
+msgstr "LAY Bakiye"
+
+#: src/components/parts/Modal/RewardModal/index.tsx
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+#: src/components/screens/Dashboard/modals/SuggestModal/Body.tsx
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Wallet Balance"
+msgstr "Cüzdan Bakiyesi"
+
+#: src/components/parts/Modal/RewardModal/index.tsx
+msgid "Unclaimed Balance"
+msgstr "Talep Edilmemiş Bakiye"
+
+#: src/components/parts/Modal/RewardModal/index.tsx
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+msgid "Price"
+msgstr "Tutar"
+
+#: src/components/parts/Modal/WalletModal/index.tsx
+msgid "Connect Wallet"
+msgstr "Cüzdanı Bağla"
+
+#: src/components/parts/Modal/WalletModal/index.tsx
+msgid "Connecting the wallet..."
+msgstr "Cüzdana Bağlanıyor…’
+
+#: src/components/parts/Modal/WalletModal/index.tsx
+msgid "We currently supports Metamask only."
+msgstr " Şu anda yalnızca Metamask'ı destekliyoruz."
+
+#: src/components/parts/Modal/WalletModal/index.tsx
+msgid "Metamask"
+msgstr "Metamask"
+
+#: src/components/parts/Modal/WalletModal/index.tsx
+msgid "By connecting, I understood <0>how Starlay Finance works and the risks involved</0> and agreed to use it at my own risk."
+msgstr " Bağlantı kurarak <0>Starlay Finance'in nasıl çalıştığını ve içerdiği riskleri</0> anladım ve riski bana ait olmak üzere kullanmayı kabul ediyorum.
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+msgid "All"
+msgstr "Hepsi"
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+msgid "All_Repay"
+msgstr "Tüm Geri Ödeme"
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+msgid "Borrow"
+msgstr "Ödünç Al"
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+msgid "Repay"
+msgstr "Geri ödeme"
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+#: src/components/screens/Markets/Assets.tsx
+#: src/components/screens/Top/parts/Assets.tsx
+msgid "Borrow APY"
+msgstr "Ödünç alma APY’si"
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+msgid "Borrow APR"
+msgstr "Ödünç alma APY’si"
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+#: src/components/screens/Dashboard/parts/Market.tsx
+msgid "Borrowed"
+msgstr "Ödünç Alındı"
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+msgid "Borrow Limit Used"
+msgstr " Kullanılan Borç Limiti "
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+#: src/components/screens/Dashboard/parts/Summary/HealthFactor.tsx
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Health Factor"
+msgstr "Sağlık Faktörü"
+
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+msgid "To repay all, you will pay more than the amount shown because of the interest charged per second."
+msgstr " Hepsini geri ödemek için, saniye başına uygulanan faiz nedeniyle gösterilen miktardan daha fazlasını ödeyeceksiniz
+#: src/components/screens/Dashboard/modals/BorrowModal/Body.tsx
+msgid "Liquidity"
+msgstr "Likidite"
+
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+msgid "ON"
+msgstr "Açık"
+
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+msgid "OFF"
+msgstr "Kapalı"
+
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+msgid "Collateral_Config"
+msgstr " Teminat Yapılandırma"
+
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+msgid "Collateral_Amount"
+msgstr " Teminat Tutarı"
+
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+msgid "Borrow Available"
+msgstr " Ödünç Alınabilir"
+
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+msgid "Disable"
+msgstr "Devre Dışı Bırak"
+
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+msgid "Enable"
+msgstr "Etkin"
+
+#: src/components/screens/Dashboard/modals/CollateralModal/Body.tsx
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+#: src/components/screens/Dashboard/parts/Market.tsx
+msgid "Deposited"
+msgstr " Yatırıldı "
+
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+msgid "All_Withdraw"
+msgstr "Hepsini çek"
+
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+msgid "Deposit"
+msgstr "Yatır"
+
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+msgid "Withdraw"
+msgstr "Çek"
+
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+#: src/components/screens/Markets/Assets.tsx
+#: src/components/screens/Top/parts/Assets.tsx
+msgid "Deposit APY"
+msgstr "Yatırma APY’si"
+
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+msgid "Deposit APR"
+msgstr " Yatırma APY’si"
+
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+msgid "This asset can't be used as collateral."
+msgstr " Bu varlık teminat olarak kullanılamaz."
+#: src/components/screens/Dashboard/modals/DepositModal/Body.tsx
+msgid "For more information, please <0>see our docs</0>."
+msgstr " Daha fazla bilgi için lütfen <0>belgelerimize bakın</0>."
+#: src/components/screens/Dashboard/modals/SuggestModal/Body.tsx
+msgid "Makai on Starlay Finance"
+msgstr "Makai  Starlay Finansta"
+
+#: src/components/screens/Dashboard/modals/SuggestModal/Body.tsx
+msgid "Loop {symbol}"
+msgstr "Döngü {sembol}"
+
+#: src/components/screens/Dashboard/modals/SuggestModal/Body.tsx
+msgid "ArthSwap"
+msgstr "ArthSwap"
+
+#: src/components/screens/Dashboard/modals/SuggestModal/Body.tsx
+msgid "Farm {symbol1}-{symbol2}"
+msgstr "Farm {symbol1}-{symbol2}"
+
+#: src/components/screens/Dashboard/modals/SuggestModal/Body.tsx
+msgid "Starlay Finance"
+msgstr "Starlay Finans"
+
+#: src/components/screens/Dashboard/modals/SuggestModal/Body.tsx
+msgid "Lend {symbol}"
+msgstr "Ödünç vermek {symbol}"
+
+#: src/components/screens/Dashboard/modals/SuggestModal/index.tsx
+msgid "Comparing {symbol} APYs for Next Action"
+msgstr " Sonraki Eylem için {symbol} APY'leri Karşılaştır"
+
+#: src/components/screens/Dashboard/modals/parts/AmountInput.tsx
+msgid "Max"
+msgstr "Maksimum"
+
+#: src/components/screens/Dashboard/parts/Market.tsx
+#: src/components/screens/Dashboard/parts/Market.tsx
+#: src/components/screens/Makai/MakaiMarkets.tsx
+#: src/components/screens/Markets/Assets.tsx
+msgid "Asset"
+msgstr "Varlık"
+
+#: src/components/screens/Dashboard/parts/Market.tsx
+#: src/components/screens/Dashboard/parts/Market.tsx
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Reward APR"
+msgstr "Ödül APR’si"
+
+#: src/components/screens/Dashboard/parts/Market.tsx
+msgid "APY_Deposit"
+msgstr "Mevduat APY’si"
+
+#: src/components/screens/Dashboard/parts/Market.tsx
+msgid "Collateral"
+msgstr "Teminat"
+
+#: src/components/screens/Dashboard/parts/Market.tsx
+msgid "APY_Borrow"
+msgstr "Borç Alma APY’si"
+
+#: src/components/screens/Dashboard/parts/Market.tsx
+msgid "Deposit Markets"
+msgstr " Mevduat Piyasaları"
+
+#: src/components/screens/Dashboard/parts/Market.tsx
+msgid "Borrow Markets"
+msgstr "Borç Alma Piyasaları"
+
+#: src/components/screens/Dashboard/parts/Summary/BorrowLimit.tsx
+msgid "Borrow Limit"
+msgstr "Borç Limiti"
+
+#: src/components/screens/Dashboard/parts/Summary/NetAPY.tsx
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Net APY"
+msgstr "Net APY"
+
+#: src/components/screens/Dashboard/parts/Summary/index.tsx
+msgid "Deposit Balance"
+msgstr " Mevduat Bakiyesi "
+
+#: src/components/screens/Dashboard/parts/Summary/index.tsx
+msgid "Borrow Balance"
+msgstr "Borç Bakiyesi"
+#: src/components/screens/Makai/MakaiMarkets.tsx
+msgid "Makai APR"
+msgstr "Makai APR"
+
+#: src/components/screens/Makai/MakaiMarkets.tsx
+msgid "Wallet_Balance"
+msgstr "Cüzdan Bakiyesi"
+
+#: src/components/screens/Makai/MakaiMarkets.tsx
+msgid "Makai Markets"
+msgstr "Makai Piyasaları"
+
+#: src/components/screens/Makai/UnclaimedReward.tsx
+msgid "Unclaimed Reward"
+msgstr "Talep Edilmemiş Ödül"
+
+#: src/components/screens/Makai/UnclaimedReward.tsx
+msgid "Claim"
+msgstr "Al"
+
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Makai Loops"
+msgstr "Makai Döngüsü"
+
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Estimated Net APY"
+msgstr " Tahmini Net APY "
+
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "\"Makai Loops\" is an experimental feature."
+msgstr "\" Makai Döngüleri\" deneysel bir özelliktir."
+
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Please <0>read our docs</0> and understand how it works before using it."
+msgstr " Lütfen  kullanmadan önce nasıl çalıştığını anlamak için<0>belgelerimizi okuyun</0> ."
+
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Start loops"
+msgstr "Döngüyü Başlat"
+
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Leverage"
+msgstr " Kaldıraç "
+
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Custom"
+msgstr "Düzenle"
+
+#: src/components/screens/Makai/modals/LoopingModal/Body.tsx
+msgid "Custom Leverage"
+msgstr " Kaldıracı Düzenle "
+
+#: src/components/screens/Markets/Assets.tsx
+#: src/components/screens/Markets/Overview.tsx
+#: src/components/screens/Top/parts/CurrentMarkets.tsx
+msgid "Total Deposited"
+msgstr "Toplam Yatırılan"
+
+#: src/components/screens/Markets/Assets.tsx
+msgid "Deposit Reward APR"
+msgstr " Yatırma Ödülü APR"
+
+#: src/components/screens/Markets/Assets.tsx
+#: src/components/screens/Markets/Overview.tsx
+#: src/components/screens/Top/parts/CurrentMarkets.tsx
+msgid "Total Borrowed"
+msgstr " Toplam Borç "
+
+#: src/components/screens/Markets/Assets.tsx
+msgid "Borrow Reward APR"
+msgstr "Borç Alma Ödülü APR"
+
+#: src/components/screens/Markets/Overview.tsx
+msgid "Deposit_Top3 Markets"
+msgstr "Top3 Piyalar"
+
+#: src/components/screens/Markets/Overview.tsx
+msgid "Borrow_Top3 Markets"
+msgstr "Top3 Markets"
+
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+msgid "Borrowing"
+msgstr "Borç Alma"
+
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+msgid "Yes"
+msgstr "Evet"
+
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+msgid "No"
+msgstr "Hayır"
+
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+msgid "Reserve Factor"
+msgstr " Rezerv Faktörü "
+
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+msgid "Used as Collateral"
+msgstr " Teminat Olarak Kullanılan"
+
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+msgid "Loan to Value"
+msgstr " Değer Biçilen Kredi "
+
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+msgid "Liquidation Threshold"
+msgstr " Tasfiye Eşiği "
+
+#: src/components/screens/Markets/modals/AssetMarketDetailsModal/Body.tsx
+msgid "Liquidation Penalty"
+msgstr " Tasfiye Cezası "
+
+#: src/components/screens/Sorry/index.tsx
+msgid "Go Back"
+msgstr "Geri Dön"
+
+#: src/components/screens/Sorry/reasons.ts
+#: src/components/screens/Top/Menu.tsx
+#: src/components/screens/Top/parts/FirstView.tsx
+msgid "Starlay Finance does not support mobile access currently. Please connect to this website using your PC."
+msgstr " Starlay Finans şu anda mobil erişimi desteklemiyor. Lütfen bilgisayarınızı kullanarak bu web sitesine bağlanın."
+
+#: src/components/screens/Sorry/reasons.ts
+msgid "Something went wrong. Please go back."
+msgstr "Birşeyler yanlış gitti.Lütfen geri dönün."
+
+#: src/components/screens/Top/Menu.tsx
+msgid "Menu"
+msgstr "Menü"
+
+#: src/components/screens/Top/Menu.tsx
+#: src/components/screens/Top/parts/FirstView.tsx
+msgid "Sorry"
+msgstr "Üzgünüm"
+
+#: src/components/screens/Top/parts/Backers.tsx
+msgid "Backers"
+msgstr "Destekçiler"
+
+#: src/components/screens/Top/parts/Backers.tsx
+msgid "We're supported by leading teams and organizations"
+msgstr " Lider ekipler ve kuruluşlar tarafından destekleniyoruz "
+
+#: src/components/screens/Top/parts/CurrentMarkets.tsx
+msgid "Current Markets"
+msgstr "Güncel Piyasalar"
+
+#: src/components/screens/Top/parts/CurrentMarkets.tsx
+msgid "The more funds that will be borrowed, the higher the interest rate will be"
+msgstr " Ödünç alınacak fon ne kadar fazlaysa, faiz oranı o kadar yüksek olacaktır. "
+
+#: src/components/screens/Top/parts/FirstView.tsx
+msgid "Low Risk Farming on Astar Network"
+msgstr "Düşüklü riskli Farming on Astar Network"
+
+#: src/components/screens/Top/parts/FirstView.tsx
+msgid "The largest lending protocol in the Polkadot ecosystem"
+msgstr " Starlay Finans Polkadot ekosisteminin en büyük kredi protokolüdür."
+
+#: src/components/screens/Top/parts/FirstView.tsx
+msgid "Explore the docs"
+msgstr "Dökümanları keşfet"
+
+#: src/components/screens/Top/parts/FirstView.tsx
+msgid "Powered by"
+msgstr " Tarafından desteklenmektedir "
+
+#: src/components/screens/Top/parts/FirstView.tsx
+msgid "ASTAR"
+msgstr "ASTAR"
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Transaction Preparing"
+msgstr " İşlem Hazırlanıyor"
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Waiting for transaction to be ready..."
+msgstr " İşlemin hazır olması bekleniyor..."
+
+#: src/hooks/useLendingPool/txHandler.ts
+#: src/hooks/useLendingPool/txHandler.ts
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Confirm Transaction"
+msgstr " İşlemi Onayla "
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Approve sending the ERC-20 asset to the pool."
+msgstr " ERC-20 varlığının havuza gönderilmesini onaylayın."
+
+#: src/hooks/useLendingPool/txHandler.ts
+#: src/hooks/useLendingPool/txHandler.ts
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Transaction Pending"
+msgstr " İşlem Beklemeniyor"
+
+#: src/hooks/useLendingPool/txHandler.ts
+#: src/hooks/useLendingPool/txHandler.ts
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Waiting for the transaction to be confirmed..."
+msgstr " İşlemin onaylanmasını bekleniyor..."
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Approve the contract to borrow ERC-20 assets on your credit."
+msgstr " Kredinizle ERC-20 varlıklarını ödünç almak için sözleşmeyi onaylayın."
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Confirm the transaction."
+msgstr " İşlemi onaylayın."
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Succeeded!"
+msgstr "Başarılı!"
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Your transaction confirmed!"
+msgstr "İşleminiz Onaylandı!"
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Transaction Canceled"
+msgstr "İşlem İptal Edildi"
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "You have canceled the transaction."
+msgstr "İşlemi İptal Ettiniz."
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Error"
+msgstr "Hata"
+
+#: src/hooks/useLendingPool/txHandler.ts
+msgid "Something went wrong..."
+msgstr "Birşeyler yanlış gitti..."
+
+#: src/hooks/useUnsupportedChainAlert.ts
+#: src/hooks/useUnsupportedChainAlert.ts
+msgid "You need to change to a supported chain"
+msgstr " Desteklenen bir ağa geçmeniz gerekiyor "
+
+#: src/hooks/useUnsupportedChainAlert.ts
+msgid "Please switch the chain with your wallet."
+msgstr "Lütfen ağı cüzdanınızdan değiştirin."
+#: src/hooks/useUnsupportedChainAlert.ts
+msgid "Please switch the chain with your wallet..."
+msgstr "Lütfen ağı cüzdanınızdan değiştirin."
+
+#: src/hooks/useUnsupportedChainAlert.ts
+msgid "Failed to switch the chain"
+msgstr "Ağ değiştirilemedi"
+#: src/libs/wallet-provider/providers/metamask.ts
+#: src/libs/wallet-provider/providers/metamask.ts
+#: src/libs/wallet-provider/providers/metamask.ts
+#: src/libs/wallet-provider/providers/metamask.ts
+msgid "Your wallet needs to switch networks manually."
+msgstr "Cüzdanınızın ağları manuel olarak değiştirmesi gerekiyor."
+#: src/utils/estimationHelper.ts
+#: src/utils/estimationHelper.ts
+#: src/utils/estimationHelper.ts
+#: src/utils/estimationHelper.ts
+#: src/utils/estimationHelper.ts
+msgid "Enter amount"
+msgstr "Miktarı girin"
+
+#: src/utils/estimationHelper.ts
+msgid "No balance to deposit"
+msgstr " Yatırılacak bakiye yok "
+
+#: src/utils/estimationHelper.ts
+msgid "No balance to withdraw"
+msgstr " Çekilecek bakiye yok "
+
+#: src/utils/estimationHelper.ts
+msgid "Insufficient collateral"
+msgstr " Yetersiz teminat "
+
+#: src/utils/estimationHelper.ts
+msgid "No liquidity to withdraw"
+msgstr " Çekilecek likidite yok "
+
+#: src/utils/estimationHelper.ts
+#: src/utils/estimationHelper.ts
+#: src/utils/estimationHelper.ts
+#: src/utils/estimationHelper.ts
+msgid "Health factor too low"
+msgstr "Sağlık faktörü çok az"
+
+#: src/utils/estimationHelper.ts
+#: src/utils/estimationHelper.ts
+msgid "Borrowing limit reached"
+msgstr "Borç alma limitine ulaşıldı"
+
+#: src/utils/estimationHelper.ts
+msgid "No liquidity to borrow"
+msgstr "Borç alınabilecek likidite yok"
+
+#: src/utils/estimationHelper.ts
+msgid "No balance to repay"
+msgstr " Geri ödenecek bakiye yok"
+
+#: src/utils/estimationHelper.ts
+msgid "Enter leverage"
+msgstr " Kaldıraç girin "
+
+#: src/utils/estimationHelper.ts
+msgid "No balance to loop"
+msgstr "Döngü için bakiye yok "
